@@ -11,7 +11,7 @@ How does it work ?
 
 The program will receive information from the standard output. We will read the information given to us, analyze it, and depending on its validity, launch the program. If any of the informations given to us is invalid, we will stop the program and print "ERROR" on the standard output.
 
-For more details, you can download the subject, or.
+For more details, you can view the subject here : [subject.pdf](https://raw.githubusercontent.com/gavizet/lemin/master/subject.pdf).
 
 Usage
 -----
