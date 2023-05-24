@@ -14,8 +14,6 @@
 
 The program will receive information from the standard output. We will read the information given to us, analyze it, and depending on its validity, launch the program. If any of the informations given to us is invalid, we will stop the program and print "ERROR" on the standard output.
 
-For more details, you can download the subject [here](subject.pdf) or view it at the root of this project.
-
 ## Usage
 
 > \> ./lem-in < [tests/test_file.map]
@@ -29,3 +27,6 @@ You will find pre-made test files in the "tests" directory.
   * 'make clean' => delete object files
   * 'make fclean' => delete object and executable files
   * 'make re' => fclean delete && compile
+
+## Subject
+For more details, you can view / download the subject [here](subject.pdf).
