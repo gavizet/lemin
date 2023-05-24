@@ -1,5 +1,5 @@
 # Lem-in
-[![My Skills](https://skills.thijs.gg/icons?i=py&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=c&theme=light)](https://skills.thijs.gg)
 ## Table of contents
 - [About](#about)
 - [How it works](#how-it-works)
